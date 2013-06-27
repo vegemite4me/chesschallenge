@@ -1,0 +1,27 @@
+{
+    "Links": [
+        {
+            "Rel": "GameState",
+            "HRef": "/GameState/922d6f19-dbe9-428e-ac10-16d297e0290c",
+            "Method": "GET"
+        },
+        {
+            "Rel": "PlacePiece",
+            "HRef": "/PlacePiece/922d6f19-dbe9-428e-ac10-16d297e0290c/<row>/<column>",
+            "Method": "POST"
+        },
+        {
+            "Rel": "CloseGame",
+            "HRef": "/CloseGame/922d6f19-dbe9-428e-ac10-16d297e0290c",
+            "Method": "POST"
+        }],
+    "GameId": "922d6f19-dbe9-428e-ac10-16d297e0290c",
+    "CurrentPiece": "Queen",
+    "NextPiece": "King",
+    "PlacedPieces": [],
+    "Score": 123,
+    "Message": "Running",
+    "IsLive": true,
+    "Size": 4,
+    "MillisecondsLeft": 99
+}

@@ -1,0 +1,25 @@
+{
+    "Links": [{
+            "Rel": "GameState",
+            "HRef": "/GameState/922d6f19-dbe9-428e-ac10-16d297e0290c",
+            "Method": "GET"
+        },
+        {
+            "Rel": "CloseGame",
+            "HRef": "/CloseGame/922d6f19-dbe9-428e-ac10-16d297e0290c",
+            "Method": "POST"
+        }],
+    "GameId": "922d6f19-dbe9-428e-ac10-16d297e0290c",
+    "CurrentPiece": "King",
+    "NextPiece": "Rook",
+    "PlacedPieces": [{
+        "Piece": "Queen",
+        "Row": 0,
+        "Column": 0
+    }],
+    "Score": 1,
+    "Message": "Illegal piece placement - square already occupied by existing piece",
+    "IsLive": false,
+    "Size": 4,
+    "MillisecondsLeft": 0
+}
