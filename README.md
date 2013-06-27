@@ -1,4 +1,4 @@
-chesschallenge
+Chess Challenge
 ==============
 
 My attempt at a solution to the following challenge:
